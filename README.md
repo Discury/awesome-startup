@@ -170,6 +170,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
+- [Discury](https://discury.io) - AI market intelligence platform - surfacing pain points, competitor shifts and buying signals from Reddit, Hacker News, Stack Overflow and Product Hunt.
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
